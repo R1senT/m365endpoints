@@ -114,7 +114,6 @@ informationprotection.hosting.portal.azure.net
 dc.services.visualstudio.com
 mem.gfx.ms
 staffhub.ms
-staffhubweb.azureedge.net
 *.microsoft.com
 *.msocdn.com
 *.onmicrosoft.com
